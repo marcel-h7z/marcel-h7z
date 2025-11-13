@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm **Marcel Hernandez**  
 **Senior Software Engineer @ Meta** | AI Innovator, Blockchain Builder, Metaverse Pioneer  
 
@@ -85,4 +84,3 @@ I'm always excited to discuss **AI scaling challenges**, **blockchain for social
 
 > **Open to opportunities in AI research, Web3 startups, or metaverse ventures**  
 > *Profile last updated: November 2025* | Built with ❤️ using Markdown & GitHub Stats
-```

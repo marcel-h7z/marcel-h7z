@@ -52,16 +52,6 @@ Here are some of my open-source and prototype repos—feel free to star, fork, o
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
-
-![Marcel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcel-h7z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcel-h7z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcel-h7z&theme=tokyonight&hide_border=true)  
-
----
-
 ## 🏆 **Certifications & Achievements**  
 
 - **MLOps Specialization** (DeepLearning.AI & Google Cloud) – Mastered production ML pipelines, including BERT deployment and AutoML analysis  
